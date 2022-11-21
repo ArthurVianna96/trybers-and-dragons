@@ -1,6 +1,6 @@
 # Projeto Trybes And Dragons
 
-Olá. Bem vindo ao projeto Trybers And Dragons. Este projeto do módulo de Back-end da Trybe consiste no desenvolvimento da estrutura de um jogo do tipo D&D baseado nos conceitos de P.O.O (Programação Orientada a Objetos) e S.O.L.I.D utilizando Typescript.
+Olá. Bem vindo ao projeto Trybers And Dragons. Este projeto do módulo de Back-end da Trybe consiste no desenvolvimento da estrutura de um jogo do tipo RPG baseado nos conceitos de P.O.O (Programação Orientada a Objetos) e S.O.L.I.D utilizando Typescript.
 
 # Contextualização
 
